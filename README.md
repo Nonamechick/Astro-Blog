@@ -84,10 +84,12 @@ A minimalist blog template featuring:
 
 ## **📸 Screenshots**  
 
-![Homepage Light Mode](https://i.postimg.cc/...)  
+![Homepage Light Mode](https://github.com/user-attachments/assets/e6fa562f-8476-419c-b1c5-a37b125c7e25
+)  
 *Clean homepage in light mode*  
 
-![Blog Post Dark Mode](https://i.postimg.cc/...)  
+![Blog Post Dark Mode](https://github.com/user-attachments/assets/002716c1-0d94-4c64-8315-d92fbee3217b
+)  
 *Blog post page in dark mode*  
 
 ## **🚀 Deployment**  
